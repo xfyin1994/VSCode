@@ -7,7 +7,7 @@
 2、错误原因
 
    Visual Studio Code工具默认是使用Ctrl+C复制，但是安装了Vim插件，会将这个快捷键替代成其他的功能
-原文：https://blog.csdn.net/you23hai45/article/details/85065201 
+   原文：https://blog.csdn.net/you23hai45/article/details/85065201 
 
 3、解决办法
 
